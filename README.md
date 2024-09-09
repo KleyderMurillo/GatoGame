@@ -11,6 +11,4 @@ GitHub: [KleyderMurillo](https://github.com/KleyderMurillo)
 
 ## Implementacion
 
-    **Implementación:**
-
     Este juego ha sido implementado en Python utilizando la librería *Tkinter* para la interfaz gráfica. Tkinter permite crear interfaces de usuario simples y efectivas de manera rápida, siendo ideal para proyectos como este. La lógica del juego está completamente basada en eventos, donde las acciones de los jugadores desencadenan cambios en el estado del juego.
